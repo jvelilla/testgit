@@ -9,3 +9,4 @@ Libgit2
 HAL
 CJ
 CMS
+WrapC
